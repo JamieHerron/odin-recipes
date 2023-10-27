@@ -3,4 +3,4 @@ This project is a simple website showing various recipes. It will demonstrate my
 2. head and body tags 
 3. headline tags 
 4. paragraph tags 
-5. image and link tags
+5. image and link tags 
